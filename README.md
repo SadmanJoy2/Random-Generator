@@ -1,1 +1,1 @@
-# Random-Generator
+# A mini lottery app
